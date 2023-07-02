@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">مصيفك</string>
+
+    <string name="facebook_app_id">214206277391147</string>
+    <string name="fb_login_protocol_scheme">fb214206277391147</string>
+
+    <string name="wishlist">قائمة الإعجاب</string>
+    <string name="myapartment">إيجاراتي</string>
+    <string name="myad">إعلاناتي</string>
+
+    <string name="apartmentsearch">Search for apartment</string>
+    <string name="makead">إنشاء إعلان</string>
+    <string name="share">مشاركة</string>
+    <string name="rateus">قيمنا</string>
+    <string name="logout">تسجيل خروج</string>
+    <string name="hurry">بسرعة لا يضيع الصيف منك</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Home"> الرئيسية </string>
+    <string name="Drawer_open">Drawer open</string>
+    <string name="Drawer_close">Drawer close</string>
+    <string name="advancedsearch">بحث متقدم </string>
+
+    <string name="gamasaflats"> شقق جمصة </string>
+    <string name="rasalbarflats"> شقق رأس البر </string>
+    <string name="balteemflats"> شقق بلطيم </string>
+
+    <string name="search">بحث </string>
+    <string name="choosecity">إختر مدينة </string>
+    <string name="startday">بداية الحجز</string>
+    <string name="endday">نهاية الحجز</string>
+    <string name="choosedate">إختر التاريخ</string>
+    <string name="roomsnu">عدد الغرف </string>
+    <string name="choosestartingdate">إختر تاريخ القدوم</string>
+    <string name="chooseleavingdate">إختر تاريخ المغادرة </string>
+    <string name="minimumone">الحد الادنى هو 1 </string>
+    <string name="maxis">الحد الاقصى هو 19 </string>
+    <string name="rooms">غرفة </string>
+    <string name="pound">جنية </string>
+    <string name="instruction">للاستعلام اضغط رمز سماعة الهاتف</string>
+    <string name="bookpay">إختيار الأيام</string>
+    <string name="adnuis">رقم الاعلان هو</string>
+
+    <string name="january">يناير</string>
+    <string name="february">فبراير</string>
+    <string name="march">مارس</string>
+    <string name="april">إبريل</string>
+    <string name="may">مايو</string>
+    <string name="june">يونيو</string>
+    <string name="july">يوليو</string>
+    <string name="august">أغسطس</string>
+    <string name="september">سبتمبر</string>
+    <string name="october">أكتوبر</string>
+    <string name="november">نوفمبر</string>
+    <string name="december">ديسمبر</string>
+
+    <string name="choosendaysare">الأيام المختارة هي</string>
+    <string name="bookpayinsu">تأكيد الحجز</string>
+    <string name="choosefirst">يجب إختيار الأيام أولا</string>
+    <string name="profilenotexists">حسابك الشخصي غير موجود</string>
+    <string name="updateprofile">تحديث البيانات</string>
+    <string name="Selectimage">إختر صورة حسابك</string>
+    <string name="Uploading">تحميل</string>
+    <string name="Uploaded">تم التحميل بنجاح</string>
+    <string name="imagefirst">يجب رفع صورة اولا</string>
+    <string name="noaccount">لا يوجد حساب مسجل</string>
+    <string name="cancel">إلغاء</string>
+    <string name="registration">تسجيل حساب</string>
+    <string name="Emailfirst">برجاء كتابة ايميلك أولا</string>
+
+    <string name="username">إسم المستخدم</string>
+    <string name="email">الإيميل</string>
+    <string name="phone">0123456789</string>
+    <string name="invalid_username">إسم المستخدم غير متاح</string>
+    <string name="invalid_password">كلمة المرور يجب ان تكون اكبر من 5 احرف</string>
+    <string name="login_failed">فشل الدخول</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل دخول</string>
+    <string name="Createaccount">إنشاء حساب</string>
+    <string name="ForgetPassword">نسيت كلمة المرور</string>
+    <string name="conferm">تأكيد كلمة المرور</string>
+
+
+    <string name="PleaseUser">برجاء كتابة إسم حسابك الشخصي</string>
+    <string name="PleasePassword">برجاء كتابة كلمة المرور الخاصة بك</string>
+    <string name="checkEmail">برجاء مراجعة إيميلك</string>
+    <string name="confirmpassword">برجاء تاكيد كلمة المرور</string>
+    <string name="passwordnotmatch">كلمة المرور غير متطابقة</string>
+    <string name="CreatingAccount">جاري إنشاء الحساب</string>
+    <string name="waitnewAccount">رجاءا الإنتظار حتى يتم إنشاء حسابك</string>
+    <string name="authenticatedsuccessfully">تم التعرف على حسابك بنجاح</string>
+    <string name="Erroroccured">حدث خطأ ما أثناء تحديث البيانات</string>
+    <string name="Saving">جاري الحفظ</string>
+    <string name="enterotp">إدخل الرمز المرسل</string>
+    <string name="submit">تقديم</string>
+
+    <string name="call">إتصال</string>
+    <string name="whats">واتساب</string>
+
+    <string name="presstochange">إضغط لتغيير الصورة</string>
+    <string name="Egypt">مصر</string>
+    <string name="SaudiArabia">السعودية</string>
+    <string name="creataccount">برجاء إنشاء حساب</string>
+    <string name="emptylist">القائمة فارغة</string>
+
+    <string name="wellcomSubject">أهلا وسهلا بك</string>
+    <string name="wellcomMessage">نتشرف بإنضمامك إلينا و يسعدنا ان نسعى دائما لتقديم أفضل خدمة و أفضل سعر</string>
+
+    <string name="usernamefirst">يجب ان تكتب إسمك </string>
+    <string name="emailfrist">يجب ان تكتب الإيميل</string>
+    <string name="loginfirst">يجب تسجيل الدخول</string>
+    <string name="description">الوصف</string>
+    <string name="price">السعر</string>
+    <string name="dailyprice">السعر اليومي</string>
+    <string name="publishrequest">طلب النشر</string>
+    <string name="location">الموقع</string>
+    <string name="locationlink">رابط الموقع</string>
+    <string name="currentlocation">الموقع الحالي</string>
+    <string name="roomsfirst">أكتب عدد الغرف</string>
+    <string name="bedssfirst">أكتب عدد السراير</string>
+    <string name="locationfirst">يجب تحديد الموقع</string>
+    <string name="pricefirst">يجب تحديد السعر</string>
+    <string name="descriptionfirst">يجب كتابة الوصف أولا</string>
+    <string name="cityfirst">أكتب إسم المدينة</string>
+    <string name="anothercity">مدينة أخرى</string>
+
+    <string name="save">حفظ</string>
+    <string name="deletead">حذف الإعلان</string>
+    <string name="choosedesireddates">إختر الأيام المراده</string>
+    <string name="dateformat">yyyy/MM/dd</string>
+    <string name="beds">سرير</string>
+    <string name="searchresult">نتائج البحث</string>
+    <string name="area">المساحة</string>
+    <string name="miters">متر مربع</string>
+    <string name="toilet">حمام</string>
+    <string name="wifi">واى فاى</string>
+    <string name="parking">موقف سيارة</string>
+    <string name="areafirst">أكتب اجمالى المساحة</string>
+    <string name="toiletfirst">أكتب عدد الحمامات</string>
+    <string name="noresults">لا يوجد نتائج للبحث </string>
+    <string name="returntosearch">رجوع إلى صفحة البحث</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="notavilable">غير متاح</string>
+
+    <string name="ClosingApp">غلق التطبيق</string>
+    <string name="sureExite">هل أنت متاكد من أنك تريد غلق التطبيق؟</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="selectstartdate">إختر يوم الوصول</string>
+    <string name="selectenddate">إختر يوم المغادرة</string>
+
+    <string name="facepage">صفحة الفيسبوك</string>
+    <string name="changeprofile">تعديل الملف الشخصي</string>
+    <string name="pressimagetochange">لتغيير الصورة اضغط عليها</string>
+    <string name="map">Map</string>
+    <string name="logincanceled">تم إلغاء الولوج</string>
+    <string name="loginsucceed">تم تسجيل الدخول</string>
+    <string name="loginfailed">فشل تسجيل الدخول</string>
+    <string name="completeprofile">اكمل الملف الشخصى </string>
+    <string name="product">سيتم دفع 200 جنية على سبيل تأمين يسترد عند المغادرة فى حالة عدم وجود تلفيات</string>
+    <string name="insurance">المقدم التأميني</string>
+    <string name="Purchase">شراء</string>
+    <string name="Details">التفاصيل</string>
+    <string name="screenshotinstrction">قبل ضغط ok إختر الزووم المناسب لتوضيح المسافة الى الشاطئ ثم ضع الدبوس على المكان المراد</string>
+    <string name="imageimporanace" >الصورة الأولى هى الأكثر اهمية حيث ستظر كواجهة الاعلان فاخترها بعناية</string>
+    <string name="city">إسم المدينة</string>
+    <string name="tochangelink">لتغيير الرابط والصورة اضغط هنا</string>
+    <string name="removingad">إزالة الإعلان</string>
+    <string name="sureRemove">هل انت واثق من إزلة الإعلان</string>
+    <string name="myadRequests">طلبات الأعلان</string>
+    <string name="mypublishedAds">إعلاناتي المنشورة</string>
+    <string name="editdes">تعديل الوصف</string>
+    <string name="editAvilabledays">تعديل الأيام المتاحة</string>
+    <string name="bookingconfirmed">تم تأكيد الحجز</string>
+    <string name="contactwithowner"> للتواصل مع المالك</string>
+    <string name="contactwithuser"> للتواصل مع المستأجر</string>
+    <string name="confirmed">تأكيد</string>
+    <string name="addtobooked">أضف إلى الأيام المحجوزة</string>
+    <string name="addtoavilable">أضف إلى الأيام المتاحة</string>
+    <string name="booked">محجوز</string>
+    <string name="userfinger">استخدم اصبعين للتكبير</string>
+    <string name="addedsuccessfully">تمت الإضافة بنجاح</string>
+    <string name="freedays">الأيام المتاحة</string>
+    <string name="phoneRegestedbefore">هذا الرقم مسجل من قبل</string>
+    <string name="suretoediteexistingProfile">هل انت متأكد من تعديل الحساب الموجود</string>
+    <string name="done">تم</string>
+    <string name="ProfileeditionSubject">تم تحديث بيانات ملفك الشخصي</string>نخم
+    <string name="edtionMessage">نرجو الانتباه رجاءا  تم تحديث ملفك الشخصي </string>
+    <string name="suretoMoveOldAcount">هل تريد الإنتقال الى حساب رقم الموبيل هذا</string>
+    <string name="fordays">لأيام</string>
+    <string name="sureBooking">تأكيد الحجز</string>
+    <string name="suretoBook">هل تريد تأكيد حجز هذة الأيام </string>
+    <string name="newAdMaded">تم إنشاء طلب إعلان جديد</string>
+    <string name="newAdNo">طلب الأعلان رقم</string>
+    <string name="madedsucc">تم إنشاءه بنجاح لمراجعة الطللب برجاء الدخول على التطبيق</string>
+    <string name="cancelebooking">إلغاء الحجز</string>
+    <string name="bookingcanceled">تم إلغاء الحجز</string>
+    <string name="surecancel">هل أنت متأكد من إلغاء هذا الحجز</string>
+    <string name="cancelling">إلغاء الحجز</string>
+    <string name="Cancellingconfirmed">تم إلغاء حجز بواسطة</string>
+    <string name="cancellationtioncause">أكتب أسباب إلغاء الحجز</string>
+    <string name="cancelAndsendEmail">إلغاء الحجز و إعلام المالك</string>
+    <string name="ownerDetails">بيانات المالك</string>
+    <string name="writecause">أكتب أسباب الإلغاء</string>
+    <string name="roomevaluation">تقييم المكان</string>
+    <string name="Ownervaluation">تقييم المالك</string>
+    <string name="rating">التقييم</string>
+    <string name="mimimumRatis">أقل تقييم هو 1</string>
+    <string name="Addeleted">لا يمكن عرض تفاصيل لأن الإعلان تم حذفه</string>
+    <string name="addedtobooked">تم إضافتها الى الأيام المحجوزة</string>
+    <string name="addedtounbooked">تم إضافتها الى الأيام المتاحة</string>
+    <string name="days">الأيام</string>
+    <string name="daysstatuschanged">الأيام التى تغيرت حالتها</string>
+    <string name="yourrequestwaitapprove">طلبك فى إنتظار موافقة الأدمن</string>
+    <string name="sureRemoveAndRequest">هل أنت واثق من حذف الإعلان القديم و طلب موافقة على التعديلات الأخيرة</string>
+    <string name="nointernet">لا يوجد إتصال بالانترنت</string>
+    <string name="toiletNo">عدد الحمامات</string>
+    <string name="bedsnu">عدد السراير</string>
+    <string name="useAnotherNo">برجاء إستخدام رقم آخر</string>
+    <string name="ok">حسنا</string>
+    <string name="openinmap">فتح الخريطة</string>
+    <string name="Copiedtoclipboard">تم النسخ</string>
+    <string name="cantchoosered">لا يمكن حجز الأيام المظللة بالأحمر</string>
+    <string name="chooseone">إختر أحد التالى</string>
+    <string name="editAd">تعديل الإعلان</string>
+    <string name="displayAd">عرض الإعلان</string>
+    <string name="wait">رجاءا الإنتظار</string>
+    <string name="uploading">جاري التحميل</string>
+    <string name="phonenumber">رقم الموبيل</string>
+    <string name="priceinpound">السعر بالجنية</string>
+    <string name="toiletnu">عدد الحمامات</string>
+    <string name="deleting">جاري الحذف</string>
+</resources>

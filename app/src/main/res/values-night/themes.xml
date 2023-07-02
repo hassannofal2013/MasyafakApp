@@ -1,0 +1,29 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Masifk" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/tes4</item>
+        <item name="colorPrimaryVariant">@color/tes3</item>
+        <item name="colorOnPrimary">@color/tes3</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/tes4</item>
+        <item name="colorSecondaryVariant">@color/tes1</item>
+        <item name="colorOnSecondary">@color/tes1</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+        <item name="background_color">@color/tes3</item>
+        <item name="text">@color/white</item>
+        <item name="toolbar">@color/tes1</item>
+        <item name="toptoolbar">#A15928</item>
+        <item name="card_background">@color/tes7</item>
+        <item name="icon_color">@color/white</item>
+        <item name="wave_nav_color">#A15928</item>
+        <item name="searchcard">#958F8F</item>
+    </style>
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/lightGrey</item>
+        <item name="colorControlActivated">@color/duskYellow</item>
+    </style>
+
+</resources>

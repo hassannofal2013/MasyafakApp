@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.tirefiesama.masifk"
+    android:requestLegacyExternalStorage="true">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Masifk">
+        <activity
+            android:name=".MyAdRequestDetailesDisplay"
+            android:exported="true" />
+        <activity
+            android:name=".MyAdpublishedDetailesDisplay"
+            android:exported="false" />
+        <activity
+            android:name=".FCM_RoomDetails"
+            android:exported="false" />
+        <activity
+            android:name=".RentedRoomDetailes"
+            android:exported="false" />
+        <activity
+            android:name=".MyPublishedAdDetailsEdit"
+            android:exported="false" />
+        <activity
+            android:name=".ChangeProfileActivity"
+            android:exported="true" />
+        <activity
+            android:name=".PageLink"
+            android:exported="true" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".SearchResultActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Full_Screen_ImageSliderActivity"
+            android:exported="true"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".SearchCollapsingActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RoomDetailes"
+            android:exported="true" />
+        <activity
+            android:name=".PayActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MyAdRequestsDetailsEdit"
+            android:exported="true" />
+        <activity
+            android:name=".FreeDaysActivity"
+            android:exported="true" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="true" />
+        <activity
+            android:name=".CityActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MakeAd"
+            android:exported="true" />
+        <activity
+            android:name=".SearchActivity"
+            android:exported="true" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDbgYN-PQFjltxMiJmYwf1ywyusL8MpzMY" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-7107468397393768~5122878987" />
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <service android:name=".FirebasePushNotificationClass"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE" />
+            </intent-filter>
+        </service>
+    </application>
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+    <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

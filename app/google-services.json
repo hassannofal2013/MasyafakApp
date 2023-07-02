@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279427883713",
+    "project_id": "masifkapp2022",
+    "storage_bucket": "masifkapp2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279427883713:android:9b2e2dca049ae9e90fea40",
+        "android_client_info": {
+          "package_name": "com.tirefiesama.masifk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279427883713-dfes018aq93eduadbsh2jbgslg79aau2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbgYN-PQFjltxMiJmYwf1ywyusL8MpzMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279427883713-dfes018aq93eduadbsh2jbgslg79aau2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/home"
+        android:title="@string/Home"
+        />
+
+
+    <item
+        android:id="@+id/nav_my_apartment"
+        android:icon="@drawable/ibaseline_vpn_key_24"
+        android:title="@string/myapartment"/>
+    <item
+        android:id="@+id/nav_my_ad"
+        android:icon="@drawable/edit"
+        android:title="@string/myad"/>
+
+    <item
+        android:id="@+id/nav_wishlist"
+        android:icon="@drawable/wishlist"
+        android:title="@string/wishlist" />
+
+
+
+
+
+
+</menu>

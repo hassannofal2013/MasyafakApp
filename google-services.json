@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525790514019",
+    "project_id": "renting-6d35c",
+    "storage_bucket": "renting-6d35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525790514019:android:8b2b8e1cc7b1939aada156",
+        "android_client_info": {
+          "package_name": "com.tirefiesama.renting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525790514019-rdqi81gv8jtmsoucjlb62276u66vh07r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMzZ4RD58ndXyjmemaZsWwlSZjcEzzTqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525790514019-rdqi81gv8jtmsoucjlb62276u66vh07r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

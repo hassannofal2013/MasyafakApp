@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <FrameLayout
+            android:id="@+id/main_container_home"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@id/navigation_bottom_main"
+            android:layout_below="@+id/toolbar_tool">
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/AdsRecycler"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="?attr/background_color">
+
+            </androidx.recyclerview.widget.RecyclerView>
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/emptylisttextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="@string/emptylist"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:visibility="invisible" />
+
+
+        <include layout="@layout/toolbarsear">
+
+        </include>
+
+
+    </RelativeLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

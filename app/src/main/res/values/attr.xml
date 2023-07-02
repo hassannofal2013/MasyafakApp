@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dark_theme">
+        <attr name="background_color" format="color"/>
+        <attr name="text" format="color"/>
+        <attr name="toolbar" format="color"/>
+        <attr name="toptoolbar" format="color"/>
+        <attr name="card_background" format="color"/>
+        <attr name="icon_color" format="color"/>
+        <attr name="wave_nav_color" format="color"/>
+        <attr name="searchcard" format="color"/>
+    </declare-styleable>
+</resources>

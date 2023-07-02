@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">Masifk</string>
+
+    <string name="facebook_app_id">214206277391147</string>
+    <string name="fb_login_protocol_scheme">fb214206277391147</string>
+
+    <string name="wishlist">Wishlist</string>
+    <string name="myapartment">My apartment</string>
+    <string name="myad">My Ad</string>
+
+    <string name="apartmentsearch">Search for apartment</string>
+    <string name="makead">Make an Ad</string>
+    <string name="share">Share</string>
+    <string name="rateus">Rate us</string>
+    <string name="logout">Logout</string>
+    <string name="hurry">Hurry, and do not waste your summer time</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Home"> Home </string>
+    <string name="Drawer_open">Drawer open</string>
+    <string name="Drawer_close">Drawer close</string>
+    <string name="advancedsearch">Advanced search </string>
+
+    <string name="gamasaflats">Gamasa apartments</string>
+    <string name="rasalbarflats">RasAlbar apartments </string>
+    <string name="balteemflats">Balteem apartments </string>
+    <string name="search">Search </string>
+    <string name="choosecity">Choose a city </string>
+    <string name="startday">Start day</string>
+    <string name="endday">End day</string>
+    <string name="choosedate">Choose a date </string>
+    <string name="roomsnu">Rooms </string>
+    <string name="choosestartingdate">Choose starting date </string>
+    <string name="chooseleavingdate">Choose leaving date </string>
+    <string name="minimumone">Minimum number is 1</string>
+    <string name="maxis">Maximum number is 19 </string>
+
+    <string name="title_activity_city">CityActivity</string>
+
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_room_detailes">RoomDetailes</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="rooms">rooms</string>
+    <string name="pound">Pound</string>
+
+    <string name="instruction">To inquire, press the handset icon</string>
+    <string name="bookpay">Choosing days</string>
+    <string name="adnuis">Ad number is </string>
+    <string name="writecause">Write your notes</string>
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+    <string name="choosendaysare">Chosen days are</string>
+    <string name="bookpayinsu">Confirm booking</string>
+    <string name="choosefirst">You have to choose days first</string>
+    <string name="profilenotexists">Profile is not exist</string>
+    <string name="updateprofile">Update profile</string>
+    <string name="Selectimage">Select your profile image...</string>
+    <string name="Uploading">Uploading</string>
+    <string name="Uploaded">Uploaded successfully</string>
+    <string name="imagefirst">You have to upload image first</string>
+    <string name="noaccount">No account is registered</string>
+    <string name="cancel">Cancel</string>
+    <string name="registration">registration</string>
+    <string name="username">User name</string>
+    <string name="email">E-mail</string>
+    <string name="phone"> 012345678</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="password">Password</string>
+    <string name="login">login</string>
+    <string name="Createaccount">Create account</string>
+    <string name="ForgetPassword">Forget Password</string>
+    <string name="conferm">Confirm your password</string>
+
+    <string name="PleaseUser">Please write your User Name</string>
+    <string name="PleasePassword">Please write your Password</string>
+    <string name="Emailfirst">Please write your Email address first</string>
+    <string name="checkEmail">Please check your Email</string>
+    <string name="confirmpassword">Please confirm your password...</string>
+    <string name="passwordnotmatch">your password dose not match with your confirm password...</string>
+    <string name="CreatingAccount">Creating New Account</string>
+    <string name="waitnewAccount">Please wait, while we are creating your new Account...</string>
+    <string name="authenticatedsuccessfully">you are authenticated successfully...</string>
+    <string name="Erroroccured">Error occured while updating your personal information</string>
+    <string name="Saving">Saving Information</string>
+    <string name="enterotp">Enter OTP</string>
+    <string name="submit">Submit</string>
+
+    <string name="call">Call</string>
+    <string name="whats">whats app</string>
+    <string name="presstochange">Press to change</string>
+    <string name="Egypt">Egypt</string>
+    <string name="SaudiArabia">Saudi Arabia</string>
+    <string name="creataccount">Create account please</string>
+    <string name="emptylist">Empty list</string>
+
+    <string name="wellcomMessage">We are honored to have you join us and we are pleased to always strive to provide the best service and the best price</string>
+    <string name="wellcomSubject">Welcome</string>
+
+    <string name="usernamefirst">you have to write your user name at first</string>
+    <string name="emailfrist">you have to write your email at first</string>
+    <string name="loginfirst">Login first</string>
+
+    <string name="description">Description</string>
+    <string name="price">Price</string>
+    <string name="dailyprice">Daily price</string>
+    <string name="location">Location</string>
+    <string name="locationlink">Location link</string>
+    <string name="currentlocation">Current location</string>
+    <string name="publishrequest">Publishing request</string>
+    <string name="roomsfirst">Write number of rooms</string>
+    <string name="bedssfirst">Write number of beds</string>
+    <string name="locationfirst">Determine the location</string>
+    <string name="pricefirst">Determine the price</string>
+    <string name="descriptionfirst">Write the description first</string>
+    <string name="cityfirst">Write the city name</string>
+    <string name="anothercity">Another city</string>
+
+    <string name="save">Save</string>
+    <string name="deletead">Delete Ad</string>
+    <string name="choosedesireddates">Choose desired dates</string>
+    <string name="dateformat">dd/MM/yyyy</string>
+    <string name="beds">Beds</string>
+
+    <string name="searchresult">Search result</string>
+
+    <string name="area">Area</string>
+    <string name="miters">Meter square</string>
+    <string name="toilet">Toilet</string>
+    <string name="wifi">Wifi</string>
+    <string name="parking">Parking</string>
+    <string name="areafirst">Write the total area</string>
+    <string name="toiletfirst">Write the number of toilets</string>
+
+    <string name="noresults">No results</string>
+    <string name="returntosearch">Return to search page</string>
+    <string name="profile">Profile</string>
+    <string name="notavilable">Not available</string>
+
+    <string name="ClosingApp">Closing App</string>
+    <string name="sureExite">Are you sure you want to close the App?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="selectstartdate">Select start date</string>
+    <string name="selectenddate">Select end date</string>
+
+    <string name="facepage">Facebook page</string>
+    <string name="changeprofile">Change profile</string>
+    <string name="pressimagetochange">Press the Image to change</string>
+    <string name="map">Map</string>
+    <string name="logincanceled">Login canceled</string>
+    <string name="loginsucceed">Login succeed</string>
+    <string name="loginfailed">Login failed</string>
+    <string name="completeprofile">Complete your profile</string>
+    <string name="product">200 EGP will be paid as a security deposit that will be refunded upon departure if there are no damages</string>
+    <string name="insurance">Insurance</string>
+    <string name="Purchase">Purchase</string>
+    <string name="Details">Details</string>
+
+    <string name="action_geolocate">Pick Place</string>
+    <string name="default_info_title">Default Location</string>
+    <string name="default_info_snippet">No places found, because location permission is disabled.</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="screenshotinstrction">Before pressing Ok choose a suitable zoom to illustrate distance to the beach then put the pin </string>
+    <string name="imageimporanace">The first image is the most important, as it will appear as the ad interface, so choose it carefully</string>
+    <string name="city">City name</string>
+    <string name="removingad">Removing ad</string>
+    <string name="sureRemove">Are you sure to remove ad</string>
+    <string name="myadRequests">My Ad Requests</string>
+    <string name="mypublishedAds">My published Ads</string>
+    <string name="editdes">Edit description</string>
+    <string name="editAvilabledays">Edit days availability</string>
+    <string name="bookingconfirmed">Booking confirmed </string>
+    <string name="contactwithowner">to contact with owner</string>
+    <string name="contactwithuser">to contact with tenant</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="addtobooked">Add to booked days</string>
+    <string name="addtoavilable">Add to available days</string>
+    <string name="booked">Booked</string>
+    <string name="userfinger">use two fingers to zoom</string>
+    <string name="addedsuccessfully">Added successfully</string>
+    <string name="freedays">Free days</string>
+    <string name="phoneRegestedbefore">This phone No. is already registered</string>
+    <string name="suretoediteexistingProfile">Are you sure to edit your existing profile</string>
+    <string name="done">Done</string>
+    <string name="ProfileeditionSubject">Your profile has been updated</string>
+    <string name="edtionMessage">Your Attention Please, Your Profile has been updated successfully</string>
+    <string name="suretoMoveOldAcount">Are you sure to move to the old account</string>
+    <string name="fordays">for days</string>
+    <string name="sureBooking">Booking confirmation</string>
+    <string name="suretoBook">Are sure to book this days</string>
+    <string name="newAdMaded">A new Dd. has been created</string>
+    <string name="newAdNo">The new ad. which its number is</string>
+    <string name="madedsucc">has been created successfully, please go to app. to review</string>
+    <string name="cancelebooking">Cancel Booking</string>
+    <string name="bookingcanceled">Booking canceled</string>
+    <string name="surecancel">Are you sure to cancel this reservation</string>
+    <string name="cancelling">Reservation cancelling</string>
+    <string name="Cancellingconfirmed">Reservation has been cancelled by</string>
+    <string name="cancellationtioncause">Write the cancellation cause</string>
+    <string name="cancelAndsendEmail">Cancel and inform the owner</string>
+    <string name="ownerDetails">Owner details</string>
+    <string name="roomevaluation">Room evaluation</string>
+    <string name="Ownervaluation">Owner evaluation</string>
+    <string name="rating">Evaluation</string>
+    <string name="mimimumRatis">Minimum rating is 1</string>
+    <string name="Addeleted">Can not show Ad details because it is deleted</string>
+    <string name="addedtobooked">Added to booked days</string>
+    <string name="addedtounbooked">added to unbooked days</string>
+    <string name="days">days</string>
+    <string name="daysstatuschanged">Days status changed</string>
+    <string name="yourrequestwaitapprove">Your request is waiting for admin approve</string>
+    <string name="sureRemoveAndRequest">Are you sure to remove the old Ad and request approval for this new chanages</string>
+    <string name="nointernet">No internet connection</string>
+    <string name="toiletNo">toilet No.</string>
+    <string name="bedsnu">beds No.</string>
+    <string name="useAnotherNo">use another No. please</string>
+    <string name="ok">Ok</string>
+    <string name="tochangelink">To change the link and the image press here.</string>
+    <string name="openinmap">open map</string>
+    <string name="Copiedtoclipboard">Copied to clipboard</string>
+    <string name="cantchoosered">you can\'t select red highlighted days</string>
+    <string name="chooseone">choose one of following</string>
+    <string name="editAd">edit the Ad</string>
+    <string name="displayAd">display the Ad</string>
+    <string name="wait">Please wait...</string>
+    <string name="uploading">uploading</string>
+    <string name="phonenumber">phone number</string>
+    <string name="priceinpound">price in pound</string>
+    <string name="toiletnu">toilet number</string>
+    <string name="deleting">deleting</string>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-v24/backgroundcollapse.xml" value="0.14351851851851852" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-v24/bg_shape.xml" value="0.14351851851851852" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-v24/border.xml" value="0.14791666666666667" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-v24/ic_baseline_fastfood_24.xml" value="0.14351851851851852" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-xhdpi/border.xml" value="0.19166666666666668" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-xhdpi/borderblue.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-xhdpi/checkback.xml" value="0.19166666666666668" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-xhdpi/priceback.xml" value="0.19166666666666668" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable-xhdpi/skyblue.xml" value="0.19166666666666668" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable/active_dot.xml" value="0.153125" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable/gradient_background.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/drawable/orangecornerbackground.xml" value="0.19583333333333333" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_change_profile.xml" value="0.11865942028985507" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_city.xml" value="0.12273550724637682" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_face_auth.xml" value="0.12273550724637682" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_fcm_room_details.xml" value="0.12771739130434784" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_free_days.xml" value="0.16666666666666666" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_full_screen_image_slider.xml" value="0.12817028985507245" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_login.xml" value="0.2811594202898551" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_make_ad.xml" value="0.16666666666666666" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_my_ad_details.xml" value="0.25376506024096385" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_my_ad_request_details_edit.xml" value="0.17552083333333332" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_my_published_ad_details.xml" value="0.14666666666666667" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_my_published_ad_details_edit.xml" value="0.17552083333333332" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_page_link.xml" value="0.1322463768115942" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_pay.xml" value="0.14666666666666667" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_register.xml" value="0.14666666666666667" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_rented_room_detailes.xml" value="0.15489130434782608" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_requested_ad_detailes.xml" value="0.12708333333333333" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_room_detailes.xml" value="0.22" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_search.xml" value="0.22" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_search_collapsing.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_search_result.xml" value="0.12364130434782608" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/activity_splash.xml" value="0.14221014492753623" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/ad_layout.xml" value="0.3333333333333333" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/cities_layout.xml" value="0.12817028985507245" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/evaluation_layout.xml" value="0.15217391304347827" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_search_result.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_visitor__change_profile_.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_visitor_ads.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_visitor_main.xml" value="0.12364130434782608" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_visitor_rented.xml" value="0.12364130434782608" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_visitor_wishes.xml" value="0.12364130434782608" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/fragment_visitorpublished_ads.xml" value="0.15217391304347827" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/my_ad_layout.xml" value="0.22" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/navigation_header.xml" value="0.1403985507246377" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/rating_details.xml" value="0.32418952618453867" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/sample.xml" value="0.1403985507246377" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/sample2.xml" value="0.1403985507246377" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/sample_dialog_call.xml" value="0.1403985507246377" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/sample_dialog_otp.xml" value="0.4304932735426009" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/sample_dialog_send_email.xml" value="0.14628623188405798" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/layout/toolbarsear.xml" value="0.1403985507246377" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/menu/maptoolbarmenu.xml" value="0.1796875" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/menu/visitor_bottom_nav.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/projects/Masifk/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11 (3)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="tes1">#000000</color>
+    <color name="tes2">#1e1e1e</color>
+    <color name="tes3">#2e2e2e</color>
+    <color name="tes4">#bb86fc</color>
+    <color name="tes5">#e1e1e1</color>
+    <color name="tes6">#4c3b66</color>
+    <color name="tes7">#6e6e6c</color>
+    <color name="tes8">#242a3a</color>
+    <color name="tes9">#63ADDB</color>
+
+
+
+
+    <color name="red">#F61414</color>
+    <color name="green">#A1EA4E</color>
+    <color name="yellow">#FFEB3B</color>
+
+    <color name="calendar_header">@color/purple_500</color>
+    <color name="calendar_header_title">#FFF</color>
+    <color name="selected_date_circle_color_app">#FF5252</color>
+    <color name="range_bg_color_app">#FFCDD2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="dividerColor">#e0e0e0</color>
+    <color name="custom_header_text">#030303</color>
+
+    <color name="calendar_selected_day_bg">#ffcf40</color>
+    <color name="calendar_selected_range_bg">#ffcf40</color>
+    <color name="dateTimeRangePickerStateToday">#ffcf40</color>
+
+    <color name="grey">#A6A4A3</color>
+
+
+    <color name="lightGrey">#D3D3D3</color>
+    <color name="duskYellow">#ffc922</color>
+
+    <color name="test">#f7d633</color>
+    <color name="test1">#f78b41</color>
+    <color name="test2">#092a4d</color>
+    <color name="test3">#48c6d4</color>
+    <color name="test4">#fef5a8</color>
+    <color name="test5">#CF17E3</color>
+    <color name="test6">#81B3EB</color>
+    <color name="test7">#F5AA19</color>
+    <color name="test8">#F23611</color>
+    <color name="test9">#efefef</color>
+    <color name="test10">#F3E3C4</color>
+
+    <color name="skyblue">#3EB9D5</color>
+    <color name="red1">#ff0204</color>
+    <color name="yellow1">#fee119</color>
+    <color name="orange">#ea9a0f</color>
+
+
+</resources>

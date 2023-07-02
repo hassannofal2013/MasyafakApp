@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.drawerlayout.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_view"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <FrameLayout
+        android:id="@+id/main_container_home"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+              android:orientation="vertical"
+            android:background="?attr/card_background">
+
+            <include layout="@layout/toolbarsear" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="55dp"
+                android:orientation="vertical">
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginEnd="12dp"
+                    android:layout_marginBottom="5sp"
+                    android:background="@color/test9">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50sp"
+                        android:layout_margin="20sp"
+                        android:gravity="start"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="55sp"
+                            android:layout_height="55sp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/imageView"
+
+                                android:layout_width="55sp"
+                                android:layout_height="55sp"
+                                android:layout_weight="1"
+                                app:srcCompat="@drawable/ibaseline_edit_location_24"
+                                app:tint="?attr/icon_color" />
+
+                            <TextView
+                                android:id="@+id/textView2"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:text="@string/choosecity"
+                                android:textAlignment="center"
+                                android:textColor="?attr/text"
+
+                                />
+
+                        </LinearLayout>
+
+                        <androidx.cardview.widget.CardView
+                            android:id="@+id/spinerCard"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_margin="5dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="?attr/searchcard"
+                            >
+
+                            <Spinner
+                                android:id="@+id/spinner"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent" />
+                        </androidx.cardview.widget.CardView>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_margin="4dp"
+                            android:layout_weight="3"
+                            android:orientation="horizontal">
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginEnd="12dp"
+                    android:layout_marginBottom="5sp"
+                    android:background="@color/test9">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50sp"
+                        android:layout_margin="20sp"
+                        android:orientation="horizontal">
+
+                        <LinearLayout
+                            android:layout_width="55sp"
+                            android:layout_height="55sp"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/imageView2"
+                                android:layout_width="55sp"
+                                android:layout_height="55sp"
+                                android:layout_weight="1"
+                                app:srcCompat="@drawable/baseline_calendar_today_24"
+                                app:tint="?attr/icon_color" />
+
+                            <TextView
+                                android:id="@+id/textView5"
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:text="@string/choosedate"
+                                android:textAlignment="center"
+                                android:textColor="?attr/text"
+
+
+                                />
+
+                        </LinearLayout>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_margin="8dp"
+                            android:layout_weight="1"
+
+                            android:backgroundTint="?attr/searchcard">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:layout_weight="3"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/startdaytextView3"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="3"
+                                    android:gravity="center"
+                                    android:text="@string/startday"
+                                    android:textAlignment="center"
+                                    android:textColor="?attr/text" />
+                            </LinearLayout>
+                        </androidx.cardview.widget.CardView>
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_margin="8dp"
+                            android:layout_weight="1"
+                            android:backgroundTint="?attr/searchcard">
+
+                            <LinearLayout
+                                android:layout_width="wrap_content"
+                                android:layout_height="match_parent"
+                                android:layout_gravity="center"
+                                android:layout_weight="3"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/enddaytextView4"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="3"
+                                    android:gravity="center"
+                                    android:text="@string/endday"
+                                    android:textColor="?attr/text" />
+                            </LinearLayout>
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="12dp"
+                    android:layout_marginTop="5sp"
+                    android:layout_marginEnd="12dp"
+                    android:layout_marginBottom="5sp"
+                    android:background="@color/black">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="50sp"
+                        android:layout_margin="20sp">
+
+                        <LinearLayout
+                            android:layout_width="55sp"
+                            android:layout_height="55sp"
+                            android:orientation="vertical">
+
+                            <ImageView
+                                android:id="@+id/imageView3"
+                                android:layout_width="55sp"
+                                android:layout_height="55sp"
+                                android:layout_weight="1"
+                                app:srcCompat="@drawable/bed"
+                                app:tint="?attr/icon_color" />
+
+                            <TextView
+                                android:id="@+id/textView6"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+
+                                android:layout_weight="1"
+                                android:gravity="center"
+                                android:text="@string/beds"
+                                android:textAlignment="center"
+                                android:textColor="?attr/text" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="6"
+                            android:orientation="horizontal"
+                            android:paddingStart="65sp"
+                            android:paddingEnd="65sp">
+
+                            <ImageButton
+                                android:id="@+id/minusimageButton"
+                                android:layout_width="35dp"
+                                android:layout_height="35dp"
+
+                                android:layout_weight="1"
+                                android:background="@drawable/ic_baseline_remove_24"
+                                android:padding="50dp" />
+
+                            <EditText
+                                android:id="@+id/numberofunits"
+                                android:layout_width="36dp"
+                                android:layout_height="wrap_content"
+
+                                android:layout_marginStart="5sp"
+                                android:layout_marginEnd="5sp"
+                                android:layout_weight="1"
+                                android:background="?attr/searchcard"
+                                android:ems="10"
+                                android:inputType="numberSigned"
+                                android:text="1"
+                                android:textAlignment="center"
+                                android:textColor="@color/black" />
+
+                            <ImageButton
+                                android:id="@+id/plusimageButton"
+                                android:layout_width="35dp"
+                                android:layout_height="35dp"
+
+                                android:layout_weight="1"
+                                android:background="@drawable/ic_baseline_add_24"
+                                android:padding="50dp" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+                </androidx.cardview.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="bottom"
+                    android:gravity="bottom"
+                    android:layout_marginTop="45dp"
+                    android:orientation="horizontal">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:layout_margin="25dp"
+                        android:layout_marginTop="50dp"
+                        android:gravity="bottom"
+                        app:cardCornerRadius="10dp">
+
+                        <TextView
+                            android:id="@+id/searchtextView"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:layout_weight="1"
+
+                            android:background="@drawable/gradient_background"
+                            android:padding="5sp"
+                            android:text="@string/search"
+                            android:textAlignment="center"
+                            android:textColor="?attr/text"
+                            android:textSize="48sp"
+                            android:textStyle="bold"
+                            tools:ignore="RtlCompat" />
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+            <ProgressBar
+                android:id="@+id/progressBar"
+                style="?android:attr/progressBarStyle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="invisible" />
+
+            <TextView
+                android:id="@+id/noresultTxtView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/noresults"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:visibility="invisible" />
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <com.google.android.material.navigation.NavigationView
+        android:id="@+id/navigation_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start"
+        android:layout_marginBottom="3dp"
+        app:menu="@menu/menu">
+
+    </com.google.android.material.navigation.NavigationView>
+
+</androidx.drawerlayout.widget.DrawerLayout>

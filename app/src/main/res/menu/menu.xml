@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="@string/advancedsearch"
+        />
+
+
+    <item
+        android:id="@+id/make_ad"
+        android:icon="@drawable/edit"
+        android:title="@string/makead"
+        />
+
+
+    <item
+        android:id="@+id/see_page"
+        android:icon="@drawable/facebook"
+        android:title="@string/facepage"
+        />
+
+    <item
+        android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="@string/share"
+        />
+
+    <item
+        android:id="@+id/rateus"
+        android:icon="@drawable/star"
+        android:title="@string/rateus"/>
+    <item
+        android:id="@+id/login"
+        android:icon="@drawable/login"
+        android:title="@string/login"/>
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/signout"
+        android:title="@string/logout"/>
+
+</menu>
